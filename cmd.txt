@@ -1,0 +1,6 @@
+# new project with specific version :
+npx @angular/cli@16.2.0 new project_name
+
+# generare app-routing
+ng generate module app-routing --flat --module=app
+
